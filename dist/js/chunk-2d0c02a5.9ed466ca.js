@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c02a5"],{"412d":function(n,e,o){"use strict";o.r(e);var c=o("95fe");e["default"]=function(n){var e=c["a"].camelCase(n),o=e+"Model";return"<?php\nnamespace app\\user\\controller;\n\nuse app\\common\\controller\\ApiController;\nuse app\\common\\model\\".concat(o,";\n\nclass ").concat(e," extends ApiController\n{\n    protected $noNeedAuth = '*';\n\n    /**\n     * @autowired\n     * @var ").concat(o,"\n     */\n    protected $model;\n}\n    ")}}}]);
+//# sourceMappingURL=chunk-2d0c02a5.9ed466ca.js.map

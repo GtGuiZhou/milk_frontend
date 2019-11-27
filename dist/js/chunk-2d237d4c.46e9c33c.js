@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d237d4c"],{fd91:function(n,e,a){"use strict";a.r(e);var c=a("95fe");e["default"]=function(n){var e=c["a"].camelCase(n)+"Model";return"<?php\nnamespace app\\common\\model;\n\n\n\nclass ".concat(e," extends BaseModel\n{\n    protected $table = '").concat(n,"';\n   \n}\n    ")}}}]);
+//# sourceMappingURL=chunk-2d237d4c.46e9c33c.js.map
